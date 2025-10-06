@@ -28,32 +28,6 @@ Committed to quality, we help businesses grow, streamline operations, and reach 
 
 ---
 
-## 🏆 Portfolio & Clients (Samples)
-
-Here are a few example projects:
-
-- **Hakeem Eyoon** — Clinic management system
-- **Al-Nahrain University (College of Medicine)** — Web development, hosting & email
-- **Hadaf Academy** — Website, hosting, CRM
-- **Iraq Builders Organization** — Online presence & hosting
-- **Al-Mutaa Website** — Full web development & CMS
-
-Clients and partners range across education, NGOs, government, private sector.
-
----
-
-## 💼 Pricing & Plans
-
-We offer flexible pricing packages:
-
-| Plan                               | Use Case                        | Highlights                                               |
-| ---------------------------------- | ------------------------------- | -------------------------------------------------------- |
-| **Basic Web Hosting**              | Individuals / small sites       | 5 GB SSD, 10 GB bandwidth, 10 email accounts, support    |
-| **VPS Business Hosting**           | Growing businesses / e-commerce | 50 GB SSD, unlimited websites & emails, priority support |
-| **Dedicated Servers / Colocation** | High-performance & enterprise   | Custom configs, DDoS protection, full control            |
-
----
-
 ## 🌐 Partnerships & Recognition
 
 We collaborate with international tech leaders and maintain strong industry ties to bring cutting-edge solutions to our clients.
